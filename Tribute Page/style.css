@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    /* padding: 0px; */
+}
+
+#header{
+    text-align: center;
+    background: lightblue;
+    border: 1px solid lightblue;
+}
+
+#members{
+    display:flex;
+}
+
+hr{
+    width:80%;
+}
+
+.member{
+    text-align: center;
+    margin: 10px;
+    width: 22vw;
+    height: auto;
+}
+
+#intro{
+    padding:10px;
+    min-height: 65vh;
+    flex-grow: 1;
+}
+
+footer{
+    display:flex;
+    background: grey;
+    flex-direction: column;
+    min-height: 13.5vh;
+}
