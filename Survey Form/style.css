@@ -1,0 +1,7 @@
+body{
+    margin: 0px;
+    background: url(favicon.jpg);
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
